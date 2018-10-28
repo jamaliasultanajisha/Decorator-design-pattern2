@@ -1,0 +1,1 @@
+This is a decorator design pattern in java. The scenario for this case is buying and decorating bikes according to the buyer's preference.
